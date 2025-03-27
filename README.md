@@ -29,8 +29,7 @@
 
 ## 📲 Entre em contato comigo!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luyz-phellype-carnot-peres-7b0083277/)   
 
 📩 **Email:** luyzpim10102@gmail.com  
 ⚡ "Transformando ideias em código eficiente!"  
